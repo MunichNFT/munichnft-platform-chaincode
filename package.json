@@ -1,0 +1,22 @@
+{
+  "name": "munichnft-platform-chaincode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/munichnft/munichnft-platform-chaincode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/munichnft/munichnft-platform-chaincode/issues"
+  },
+  "homepage": "https://github.com/munichnft/munichnft-platform-chaincode#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.1.0"
+  }
+}
